@@ -23,7 +23,7 @@ namespace QuotationServiceManagement.Application.Web.IntegrationEventHandler
         {
             // todo create the contract 
             var contract = new ContractBuilder();
-            contract.InitContractTime(notification.SubmitTime,notification.QuotationId)
+            contract.InitContractTime(notification.SubmitTime,notification.QuotationId,"",notification.TotalData)
 
             Console.WriteLine($"Quotation Id :{notification.QuotationId}");
             return Task.CompletedTask;
