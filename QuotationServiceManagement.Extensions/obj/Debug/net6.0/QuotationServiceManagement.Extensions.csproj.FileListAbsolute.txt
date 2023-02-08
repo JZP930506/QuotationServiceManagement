@@ -1,0 +1,12 @@
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/bin/Debug/net6.0/QuotationServiceManagement.Extensions.deps.json
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/bin/Debug/net6.0/QuotationServiceManagement.Extensions.dll
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/bin/Debug/net6.0/QuotationServiceManagement.Extensions.pdb
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/QuotationServiceManagement.Extensions.csproj.AssemblyReference.cache
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/QuotationServiceManagement.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/QuotationServiceManagement.Extensions.AssemblyInfoInputs.cache
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/QuotationServiceManagement.Extensions.AssemblyInfo.cs
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/QuotationServiceManagement.Extensions.csproj.CoreCompileInputs.cache
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/QuotationServiceManagement.Extensions.dll
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/refint/QuotationServiceManagement.Extensions.dll
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/QuotationServiceManagement.Extensions.pdb
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/ref/QuotationServiceManagement.Extensions.dll
