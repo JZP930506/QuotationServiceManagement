@@ -62,11 +62,11 @@ namespace QuotationServiceManagement.Domain.AggregatesModel.InquiryAggregate.Quo
             AddDomainEvent(new QuotationChangeDomainEvent(Id, InquiryPartyId));
         }
 
-        public void FinishQuotation(int quotationId, int inquiryPartyId, DateTime submitTime)
+        public void FinishQuotation(int quotationId,DateTime submitTime)
         {
             QuotationStatus = QuotationStatus.Finished;
 
-            AddDomainEvent(new QuotationFinishDomainEvent(quotationId, inquiryPartyId, submitTime));
+            AddDomainEvent(new QuotationFinishDomainEvent(quotationId, InquiryPartyId,TotalData,submitTime));
         }
 
         public void ChangeQuotationItem(string name, string specification, string technologicalStandard, double unitPrice, int quatity, string remark)
