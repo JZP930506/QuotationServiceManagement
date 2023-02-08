@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UlVZBy8EoC5713wdn4haf8YkL98eivR6pa+9/+FhIRSQbW7Nw1Jy0EnYBmCCHRnq6f3mtVaZpWYwMfEXBFVAcA==",
+  "success": true,
+  "projectFilePath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jzp93\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

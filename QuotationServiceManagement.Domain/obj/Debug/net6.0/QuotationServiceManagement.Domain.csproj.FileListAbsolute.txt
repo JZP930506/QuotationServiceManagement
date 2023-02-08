@@ -1,0 +1,15 @@
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/bin/Debug/net6.0/QuotationServiceManagement.Domain.deps.json
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/bin/Debug/net6.0/QuotationServiceManagement.Domain.dll
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/bin/Debug/net6.0/QuotationServiceManagement.Domain.pdb
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/bin/Debug/net6.0/QuotationServiceManagement.Domain.Share.dll
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/bin/Debug/net6.0/QuotationServiceManagement.Domain.Share.pdb
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/QuotationServiceManagement.Domain.csproj.AssemblyReference.cache
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/QuotationServiceManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/QuotationServiceManagement.Domain.AssemblyInfoInputs.cache
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/QuotationServiceManagement.Domain.AssemblyInfo.cs
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/QuotationServiceManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/QuotationServiceManagement.Domain.csproj.CopyComplete
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/QuotationServiceManagement.Domain.dll
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/refint/QuotationServiceManagement.Domain.dll
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/QuotationServiceManagement.Domain.pdb
+/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domain/obj/Debug/net6.0/ref/QuotationServiceManagement.Domain.dll

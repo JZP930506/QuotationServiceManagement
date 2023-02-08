@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domian.Share/QuotationServiceManagement.Domian.Share.csproj": {}
+  },
+  "projects": {
+    "/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domian.Share/QuotationServiceManagement.Domian.Share.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domian.Share/QuotationServiceManagement.Domian.Share.csproj",
+        "projectName": "QuotationServiceManagement.Domian.Share",
+        "projectPath": "/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domian.Share/QuotationServiceManagement.Domian.Share.csproj",
+        "packagesPath": "/Users/ericji/.nuget/packages/",
+        "outputPath": "/Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Domian.Share/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ericji/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://artifacts.connected.bmw/artifactory/api/nuget/runtime-nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

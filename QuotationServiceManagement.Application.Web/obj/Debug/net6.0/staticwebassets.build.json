@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SioYkO/Tea3TmRKGngt+52xi4bViGVE0E+Us5vBVRHA=",
+  "Source": "QuotationServiceManagement.Application.Web",
+  "BasePath": "_content/QuotationServiceManagement.Application.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
