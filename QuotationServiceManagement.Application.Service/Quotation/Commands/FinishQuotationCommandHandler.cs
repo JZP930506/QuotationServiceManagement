@@ -30,10 +30,9 @@ namespace QuotationServiceManagement.Application.Service.Quotation.Commands
         public async Task<bool> Handle(FinishQuotationCommand request, CancellationToken cancellationToken)
         {
             var quotation = await _quotationRepository.GetAsync(request.QuotationId, cancellationToken);
-            quotation.FinishQuotation(quotation.Id, quotation.InquiryPartyId, DateTime.Now);
+            quotation.FinishQuotation(quotation.Id,DateTime.Now);
             await _quotationRepository.UnitOfWork.SaveChangesAsync(cancellationToken);
-
-
+            
             return await Task.FromResult(true);
         }
     }
