@@ -18,7 +18,7 @@ namespace QuotationServiceManagement.Application.Service.Quotation.DomainEventHa
         {
             await _capPublisher.PublishAsync(
                 "QuotationFinishIntegrationEvent.Subscribe",
-                new QuotationFinishIntegrationEvent(notification.QuotationId, notification.InquiryPartyId, DateTime.Now),
+                new QuotationFinishIntegrationEvent(notification.QuotationId, notification.InquiryPartyId,notification.TotalData, DateTime.Now),
                 cancellationToken: cancellationToken);
         }
     }

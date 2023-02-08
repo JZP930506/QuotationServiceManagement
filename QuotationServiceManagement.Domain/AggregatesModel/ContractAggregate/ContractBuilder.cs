@@ -34,7 +34,7 @@ public class ContractBuilder
         return this;
     }
 
-    public ContractBuilder SetFirstParty(string title, string address, LinkInfo linkInfo, BankInfo bankInfo)
+    public ContractBuilder SetFirstParty(string title, string address, string linkMan, string email, string phone, string fax, string bankAccount, string openingBank)
     {
         if (string.IsNullOrEmpty(title))
             throw new ArgumentException($"{nameof(title)} can't be null or empty.");
@@ -44,8 +44,12 @@ public class ContractBuilder
 
         _contract.FirstParty.Title = title;
         _contract.FirstParty.Address = address;
-        _contract.FirstParty.BankInfo = bankInfo;
-        _contract.FirstParty.LinkInfo = linkInfo;
+        _contract.FirstParty.LinkMan = linkMan;
+        _contract.FirstParty.Phone = phone;
+        _contract.FirstParty.Email = email;
+        _contract.FirstParty.Fax = fax;
+        _contract.FirstParty.OpeningBank = openingBank;
+        _contract.FirstParty.BankAccount = bankAccount;
         return this;
     }
     

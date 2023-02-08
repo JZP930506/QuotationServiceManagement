@@ -48,12 +48,9 @@ public class ContractEntityTypeConfiguration : IEntityTypeConfiguration<Contract
 
         builder.OwnsOne(x => x.FirstParty,
             a =>
-            {
-                // Explicit configuration of the shadow key property in the owned type 
-                // as a workaround for a documented issue in EF Core 5: https://github.com/dotnet/efcore/issues/20740
+            { 
                 a.WithOwner();
             });
-        
 
         builder.HasMany(b => b.ContractItems)
             .WithOne()

@@ -10,3 +10,15 @@
 /Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/refint/QuotationServiceManagement.Extensions.dll
 /Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/QuotationServiceManagement.Extensions.pdb
 /Users/ericji/Projects/QuotationServiceManagement/QuotationServiceManagement.Extensions/obj/Debug/net6.0/ref/QuotationServiceManagement.Extensions.dll
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\bin\Debug\net6.0\QuotationServiceManagement.Extensions.deps.json
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\bin\Debug\net6.0\QuotationServiceManagement.Extensions.dll
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\bin\Debug\net6.0\QuotationServiceManagement.Extensions.pdb
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\obj\Debug\net6.0\QuotationServiceManagement.Extensions.csproj.AssemblyReference.cache
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\obj\Debug\net6.0\QuotationServiceManagement.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\obj\Debug\net6.0\QuotationServiceManagement.Extensions.AssemblyInfoInputs.cache
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\obj\Debug\net6.0\QuotationServiceManagement.Extensions.AssemblyInfo.cs
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\obj\Debug\net6.0\QuotationServiceManagement.Extensions.csproj.CoreCompileInputs.cache
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\obj\Debug\net6.0\QuotationServiceManagement.Extensions.dll
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\obj\Debug\net6.0\refint\QuotationServiceManagement.Extensions.dll
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\obj\Debug\net6.0\QuotationServiceManagement.Extensions.pdb
+C:\Private_Project\QuotationServiceManagement\QuotationServiceManagement.Extensions\obj\Debug\net6.0\ref\QuotationServiceManagement.Extensions.dll

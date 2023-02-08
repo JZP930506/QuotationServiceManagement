@@ -1,20 +1,52 @@
-namespace QuotationServiceManagement.Domain.AggregatesModel.ContractAggregate;
-
-public class EnterpriseParty : Entity
+namespace QuotationServiceManagement.Domain.AggregatesModel.ContractAggregate
 {
-    public EnterpriseParty(string title, string address, LinkInfo linkInfo, BankInfo bankInfo)
+    public class EnterpriseParty : ValueObject
     {
-        Title = title;
-        Address = address;
-        LinkInfo = linkInfo;
-        BankInfo = bankInfo;
+        public EnterpriseParty()
+        {
+            
+        }
+        
+        public EnterpriseParty(string title, string address, string linkMan, string email, string phone, string fax, string bankAccount, string openingBank)
+            :this()
+        {
+            Title = title;
+            Address = address;
+            LinkMan = linkMan;
+            Email = email;
+            Phone = phone;
+            Fax = fax;
+            BankAccount = bankAccount;
+            OpeningBank = openingBank;
+        }
+
+        public string Title { get; set; }
+
+        public string Address { get; set; }
+
+        public string LinkMan { get; set; }
+
+        public string Email { get; set; }
+
+        public string Phone { get; set; }
+
+        public string Fax { get; set; }
+        
+        public string BankAccount { get; set; }
+
+        public string OpeningBank { get; set; }
+
+        protected override IEnumerable<object> GetEqualityComponents()
+        {
+            yield return Title;
+            yield return Address;
+            yield return LinkMan;
+            yield return Fax;
+            yield return Email;
+            yield return Phone;
+            yield return BankAccount;
+            yield return OpeningBank;
+        }
     }
-
-    public string Title { get; set; }
-
-    public string Address { get; set; }
-
-    public LinkInfo LinkInfo { get; set; }
-
-    public BankInfo BankInfo { get; set; }
+    
 }

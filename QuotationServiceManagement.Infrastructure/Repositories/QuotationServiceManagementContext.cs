@@ -53,7 +53,10 @@ namespace QuotationServiceManagement.Infrastructure.Repositories
             modelBuilder.ApplyConfiguration(new InquiryPartyEntityTypeConfiguration());
 
             modelBuilder.ApplyConfiguration(new QuotationItemEntityTypeConfiguration());
+            
+            modelBuilder.ApplyConfiguration(new ContractEntityTypeConfiguration());
 
+            modelBuilder.ApplyConfiguration(new ContractItemEntityTypeConfiguration());
         }
 
         public async Task<IDbContextTransaction> BeginTransactionAsync()
