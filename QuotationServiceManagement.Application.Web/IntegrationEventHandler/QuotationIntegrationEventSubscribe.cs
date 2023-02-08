@@ -1,6 +1,7 @@
 using DotNetCore.CAP;
 using MediatR;
 using QuotationServiceManagement.Application.Service.IntegrationEvents;
+using QuotationServiceManagement.Domain.AggregatesModel.ContractAggregate;
 using QuotationServiceManagement.IntegrationEvent;
 
 namespace QuotationServiceManagement.Application.Web.IntegrationEventHandler
@@ -21,6 +22,8 @@ namespace QuotationServiceManagement.Application.Web.IntegrationEventHandler
         public Task HandleMessage(QuotationFinishIntegrationEvent notification, CancellationToken cancellationToken)
         {
             // todo create the contract 
+            var contract = new ContractBuilder();
+            contract.InitContractTime(notification.SubmitTime,notification.QuotationId)
 
             Console.WriteLine($"Quotation Id :{notification.QuotationId}");
             return Task.CompletedTask;
