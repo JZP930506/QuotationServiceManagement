@@ -6,8 +6,7 @@ namespace QuotationServiceManagement.Application.Service.Quotation.Commands
     public class CreateInquiryCommand : IRequest<int>
     {
         public IEnumerable<QuotationItemsDto> QuotationItems { get; private set; }
-
-
+        
         public DateTime StartTime { get; private set; }
 
 

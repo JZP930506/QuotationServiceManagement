@@ -1,5 +1,6 @@
 using DotNetCore.CAP;
 using MediatR;
+using QuotationServiceManagement.Application.Service.Contract.Commands;
 using QuotationServiceManagement.Application.Service.IntegrationEvents;
 using QuotationServiceManagement.Domain.AggregatesModel.ContractAggregate;
 using QuotationServiceManagement.IntegrationEvent;
@@ -19,14 +20,13 @@ namespace QuotationServiceManagement.Application.Web.IntegrationEventHandler
         }
 
         [CapSubscribe($"{nameof(QuotationFinishIntegrationEvent)}.Subscribe")]
-        public Task HandleMessage(QuotationFinishIntegrationEvent notification, CancellationToken cancellationToken)
+        public async Task HandleMessage(QuotationFinishIntegrationEvent notification,
+            CancellationToken cancellationToken)
         {
             // todo create the contract 
-            var contract = new ContractBuilder();
-            contract.InitContractTime(notification.SubmitTime, notification.QuotationId, "", notification.TotalData);
-
-            Console.WriteLine($"Quotation Id :{notification.QuotationId}");
-            return Task.CompletedTask;
+            var contractBuilder = new ContractBuilder();
+            var command = await _mediator.Send(new CreateContractCommand(notification.QuotationId, notification.InquiryPartyId,
+                    notification.SubmitTime), cancellationToken);
         }
     }
 }

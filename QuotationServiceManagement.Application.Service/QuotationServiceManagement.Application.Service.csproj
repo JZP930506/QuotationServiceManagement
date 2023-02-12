@@ -21,7 +21,10 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Quotation\Models" />
+      <Folder Include="Contract\DomainEventHandler" />
+      <Folder Include="Contract\DTOs" />
+      <Folder Include="Contract\Profiles" />
+      <Folder Include="Contract\Validations" />
     </ItemGroup>
 
 </Project>
