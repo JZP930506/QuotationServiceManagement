@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj": {}
+    "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj": {}
   },
   "projects": {
-    "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj": {
+    "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj",
         "projectName": "QuotationServiceManagement.Application.Infrastructure",
-        "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj",
+        "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jzp93\\.nuget\\packages\\",
-        "outputPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\obj\\",
+        "outputPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj": {
+    "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj",
+        "projectUniqueName": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj",
         "projectName": "QuotationServiceManagement.Application.Service",
-        "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj",
+        "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj",
         "packagesPath": "C:\\Users\\jzp93\\.nuget\\packages\\",
-        "outputPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\obj\\",
+        "outputPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,17 +91,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj": {
-                "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj"
+              "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj": {
+                "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj"
               },
-              "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj": {
-                "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj"
+              "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj": {
+                "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj"
               },
-              "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj": {
-                "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj"
+              "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj": {
+                "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj"
               },
-              "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj": {
-                "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj"
+              "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj": {
+                "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj"
               }
             }
           }
@@ -142,7 +143,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -151,18 +153,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj": {
+    "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj",
+        "projectUniqueName": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj",
         "projectName": "QuotationServiceManagement.Application.Web",
-        "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj",
+        "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj",
         "packagesPath": "C:\\Users\\jzp93\\.nuget\\packages\\",
-        "outputPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\obj\\",
+        "outputPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -183,14 +185,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj": {
-                "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj"
+              "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj": {
+                "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj"
               },
-              "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj": {
-                "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj"
+              "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj": {
+                "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj"
               },
-              "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj": {
-                "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj"
+              "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj": {
+                "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj"
               }
             }
           }
@@ -270,7 +272,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -282,18 +285,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj": {
+    "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj",
+        "projectUniqueName": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj",
         "projectName": "QuotationServiceManagement.Domain.Share",
-        "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj",
+        "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj",
         "packagesPath": "C:\\Users\\jzp93\\.nuget\\packages\\",
-        "outputPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\obj\\",
+        "outputPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -337,7 +340,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -346,18 +350,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj": {
+    "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj",
         "projectName": "QuotationServiceManagement.Domain",
-        "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj",
+        "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\jzp93\\.nuget\\packages\\",
-        "outputPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\obj\\",
+        "outputPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -378,8 +382,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj": {
-                "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj"
+              "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj": {
+                "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj"
               }
             }
           }
@@ -399,7 +403,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -408,18 +413,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj": {
+    "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj",
+        "projectUniqueName": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj",
         "projectName": "QuotationServiceManagement.Extensions",
-        "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj",
+        "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\QuotationServiceManagement.Extensions.csproj",
         "packagesPath": "C:\\Users\\jzp93\\.nuget\\packages\\",
-        "outputPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\obj\\",
+        "outputPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -457,7 +462,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -466,18 +472,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj": {
+    "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj",
         "projectName": "QuotationServiceManagement.Infrastructure",
-        "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj",
+        "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jzp93\\.nuget\\packages\\",
-        "outputPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\obj\\",
+        "outputPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -498,8 +504,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj": {
-                "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj"
+              "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj": {
+                "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj"
               }
             }
           }
@@ -539,7 +545,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -548,18 +555,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj": {
+    "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj",
+        "projectUniqueName": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj",
         "projectName": "QuotationServiceManagement.IntegrationEvent",
-        "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj",
+        "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj",
         "packagesPath": "C:\\Users\\jzp93\\.nuget\\packages\\",
-        "outputPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\obj\\",
+        "outputPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -597,7 +604,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -606,7 +614,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

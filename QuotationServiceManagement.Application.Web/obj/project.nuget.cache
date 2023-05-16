@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v8Li8RnruBY1M3GSQM/kAeTY8TQSmwaOpLUPbCYll2vHQ80JXDY9dCJ7xaNpL/Ve4VRFiNxBPE68jKEfDKeP+w==",
+  "dgSpecHash": "Dn3m67hYcdHWRbbSuHXrcAk+7Hm1zf67Up8+vrJTfxFEMl8wepv8cMhwncPWviG7xlxnH1rLxuQzYlCil1Ggkg==",
   "success": true,
-  "projectFilePath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj",
+  "projectFilePath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Web\\QuotationServiceManagement.Application.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jzp93\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jzp93\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

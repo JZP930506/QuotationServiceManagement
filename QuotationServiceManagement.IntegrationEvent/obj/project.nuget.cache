@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "reQQcf2ReVYJSfi2Yn3BSYsgpEsPOXaDIpcf5+oTLFV1Un9btHSLA2rAnv+f9A3MZnX3VeApf9II3ml0ZJ/lIA==",
+  "dgSpecHash": "9ifMxHAe+JBwp04Eq/Avg3wPG/Mc2pu0iOdjbMAT9oh/aZetzfOSntwZQ3vz1xh02wSfdOrnd0ogFqDZnoZ9fA==",
   "success": true,
-  "projectFilePath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj",
+  "projectFilePath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.IntegrationEvent\\QuotationServiceManagement.IntegrationEvent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

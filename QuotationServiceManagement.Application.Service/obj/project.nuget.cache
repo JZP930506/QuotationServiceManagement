@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tkFxs8j/2X6HBVkWlnSX0aj6LAPBIBU+WITB8zeaQehIVX65XdBPOcvvSPyvvcY5b6oWPsgm7F6pQ2XgYHvvAw==",
+  "dgSpecHash": "K5aN11YkbA4GpCS9+8OU6/Ey0RKTKxqyXnhfalqUswDQmfjm6rq5Ks9hnE9u2KsQUNI0rnHBctoqMJ6fPJDqMg==",
   "success": true,
-  "projectFilePath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj",
+  "projectFilePath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Service\\QuotationServiceManagement.Application.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jzp93\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jzp93\\.nuget\\packages\\dotnetcore.cap\\6.0.0\\dotnetcore.cap.6.0.0.nupkg.sha512",

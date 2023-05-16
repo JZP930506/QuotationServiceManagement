@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iBG1BAASuF2NUmAWHKrMpHH1giOcQNILRsdoMDacyOGH7XMO1YHS/F2retzxS9QG4i5qOe54laEl4EE67KjAow==",
+  "dgSpecHash": "wOgZsRm3y+IashoHHMd/wbgPVuNuRMwDVkG32Qp1pVhb8Y9vZf27Yl7ZzRHdpr1kA+IXwkDaJdycM9gr28cAwQ==",
   "success": true,
-  "projectFilePath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.EOFService\\QuotationServiceManagement.EOFService.csproj",
+  "projectFilePath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.EOFService\\QuotationServiceManagement.EOFService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jzp93\\.nuget\\packages\\enums.net\\4.0.0\\enums.net.4.0.0.nupkg.sha512",
     "C:\\Users\\jzp93\\.nuget\\packages\\epplus\\6.1.2\\epplus.6.1.2.nupkg.sha512",

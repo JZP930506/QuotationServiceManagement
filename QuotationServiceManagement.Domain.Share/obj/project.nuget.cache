@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UlVZBy8EoC5713wdn4haf8YkL98eivR6pa+9/+FhIRSQbW7Nw1Jy0EnYBmCCHRnq6f3mtVaZpWYwMfEXBFVAcA==",
+  "dgSpecHash": "qF29JgNwZUCbWtr5y/znK6DF4YEMjlsGcRZkvWLfyVbyslToC73uMS0A8DgZeziHLb7YWRLrLrSvSlXl+N8iRQ==",
   "success": true,
-  "projectFilePath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj",
+  "projectFilePath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain.Share\\QuotationServiceManagement.Domain.Share.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jzp93\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],

@@ -1855,11 +1855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj",
       "projectName": "QuotationServiceManagement.Infrastructure",
-      "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj",
+      "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\QuotationServiceManagement.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\jzp93\\.nuget\\packages\\",
-      "outputPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\obj\\",
+      "outputPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1880,8 +1880,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj": {
-              "projectPath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj"
+            "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj": {
+              "projectPath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Domain\\QuotationServiceManagement.Domain.csproj"
             }
           }
         }
@@ -1921,7 +1921,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -1930,7 +1931,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

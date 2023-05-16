@@ -66,7 +66,7 @@ namespace QuotationServiceManagement.Domain.AggregatesModel.InquiryAggregate.Quo
         {
             QuotationStatus = QuotationStatus.Finished;
 
-            AddDomainEvent(new QuotationFinishDomainEvent(quotationId, inquiryPartyId, submitTime));
+            AddDomainEvent(new QuotationFinishDomainEvent(quotationId, inquiryPartyId,QuotationCount, submitTime));
         }
 
         public void ChangeQuotationItem(string name, string specification, string technologicalStandard, double unitPrice, int quatity, string remark)

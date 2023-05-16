@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3HrgmYRtFkzqMf/QaFfp2TJMaEyvRzL/sBNve/46cJ4TVAVoAbCdtY+zlRx4+opNJiMvX2yx8uaY59fQOULeKw==",
+  "dgSpecHash": "rEKDDimImFx+tcjWubplRWxGs9GYD/xCIpHw3HDkmE/CEgyACl0Eg4tkbxHEltq6VLWG7QRJGXTCRrnPtBOVjA==",
   "success": true,
-  "projectFilePath": "C:\\Private_Project\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj",
+  "projectFilePath": "C:\\Private_Project\\crm\\QuotationServiceManagement\\QuotationServiceManagement.Application.Infrastructure\\QuotationServiceManagement.Application.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
